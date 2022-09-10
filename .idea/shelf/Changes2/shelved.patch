@@ -1,0 +1,375 @@
+Index: .idea/shelf/Changes.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Changes.xml b/.idea/shelf/Changes.xml
+new file mode 100644
+--- /dev/null	(date 1662820174520)
++++ b/.idea/shelf/Changes.xml	(date 1662820174520)
+@@ -0,0 +1,364 @@
++<changelist name="Changes" date="1662820166924" recycled="false">
++  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" />
++  <option name="DESCRIPTION" value="Changes" />
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/ion.rangeSlider/img/1.png" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/1.png" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/ion.rangeSlider/img/2.png" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/2.png" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/ion.rangeSlider/img/4.png" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/4.png" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/ion.rangeSlider/img/5.png" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/5.png" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/ion.rangeSlider/img/12.png" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/12.png" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/ion.rangeSlider/img/21.png" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/21.png" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="img/alarm.png" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/alarm.png" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="img/alarm-off.png" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/alarm-off.png" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="img/checks.png" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/checks.png" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/fileuploads/fonts/dropify.eot" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/dropify.eot" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/fileuploads/fonts/dropify.ttf" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/dropify.ttf" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/fileuploads/fonts/dropify.woff" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/dropify.woff" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/feather/fonts/feather-webfont.eot" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/feather-webfont.eot" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/feather/fonts/feather-webfont.ttf" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/feather-webfont.ttf" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/feather/fonts/feather-webfont.woff" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/feather-webfont.woff" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/font-awesome/fonts/FontAwesome.otf" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/FontAwesome.otf" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/font-awesome/fonts/fontawesome-webfont.eot" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/fontawesome-webfont.eot" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/font-awesome/fonts/fontawesome-webfont.ttf" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/fontawesome-webfont.ttf" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/font-awesome/fonts/fontawesome-webfont.woff" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/fontawesome-webfont.woff" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/font-awesome/fonts/fontawesome-webfont.woff2" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/fontawesome-webfont.woff2" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/glyphicons/fonts/glyphicons-halflings-regular.eot" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/glyphicons-halflings-regular.eot" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/glyphicons/fonts/glyphicons-halflings-regular.ttf" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/glyphicons-halflings-regular.ttf" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/glyphicons/fonts/glyphicons-halflings-regular.woff" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/glyphicons-halflings-regular.woff" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/glyphicons/fonts/glyphicons-halflings-regular.woff2" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/glyphicons-halflings-regular.woff2" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="img/icon.png" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/icon.png" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="img/images.png" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/images.png" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/ionicons/fonts/ionicons.eot" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/ionicons.eot" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/ionicons/fonts/ionicons.ttf" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/ionicons.ttf" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/ionicons/fonts/ionicons.woff" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/ionicons.woff" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/gallery/fonts/lg.eot" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/lg.eot" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/gallery/fonts/lg.ttf" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/lg.ttf" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/gallery/fonts/lg.woff" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/lg.woff" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/linearicons/fonts/Linearicons-Free.eot" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Linearicons-Free.eot" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/linearicons/fonts/Linearicons-Free.ttf" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Linearicons-Free.ttf" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/linearicons/fonts/Linearicons-Free.woff" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Linearicons-Free.woff" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/linearicons/fonts/Linearicons-Free.woff2" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Linearicons-Free.woff2" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="img/logo.ico" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/logo.ico" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="img/logo.jpg" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/logo.jpg" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/maps-google/marker.png" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/marker.png" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/materialdesignicons/fonts/Material-Design-Iconic-Font.eot" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Material-Design-Iconic-Font.eot" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/materialdesignicons/fonts/Material-Design-Iconic-Font.ttf" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Material-Design-Iconic-Font.ttf" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/materialdesignicons/fonts/Material-Design-Iconic-Font.woff" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Material-Design-Iconic-Font.woff" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/materialdesignicons/fonts/Material-Design-Iconic-Font.woff2" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Material-Design-Iconic-Font.woff2" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/materialdesignicons/fonts/materialdesignicons-webfont.eot" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/materialdesignicons-webfont.eot" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/materialdesignicons/fonts/materialdesignicons-webfont.ttf" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/materialdesignicons-webfont.ttf" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/materialdesignicons/fonts/materialdesignicons-webfont.woff" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/materialdesignicons-webfont.woff" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/materialdesignicons/fonts/materialdesignicons-webfont.woff2" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/materialdesignicons-webfont.woff2" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/multipleselect/multiple-select.png" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/multiple-select.png" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Pe-icon-7-stroke.eot" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.ttf" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Pe-icon-7-stroke.ttf" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.woff" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Pe-icon-7-stroke.woff" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="img/scroll_up.png" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/scroll_up.png" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/simple-line-icons/fonts/Simple-Line-Icons.eot" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Simple-Line-Icons.eot" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/simple-line-icons/fonts/Simple-Line-Icons.ttf" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Simple-Line-Icons.ttf" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/simple-line-icons/fonts/Simple-Line-Icons.woff" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Simple-Line-Icons.woff" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/simple-line-icons/fonts/Simple-Line-Icons.woff2" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Simple-Line-Icons.woff2" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/ion.rangeSlider/img/sprite-skin-simple.png" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/sprite-skin-simple.png" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/ion.rangeSlider/img/sprite-skin-simple - Copy.png" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/sprite-skin-simple - Copy.png" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/summernote/font/summernote.eot" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/summernote.eot" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/summernote/font/summernote.ttf" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/summernote.ttf" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/summernote/font/summernote.woff" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/summernote.woff" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/summernote/font/summernote.woff2" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/summernote.woff2" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/themify/fonts/themify.eot" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/themify.eot" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/themify/fonts/themify.ttf" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/themify.ttf" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/themify/fonts/themify.woff" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/themify.woff" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/typicons/fonts/typicons.eot" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/typicons.eot" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/typicons/fonts/typicons.ttf" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/typicons.ttf" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/typicons/fonts/typicons.woff" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/typicons.woff" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/weathericons/fonts/weathericons-regular-webfont.eot" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/weathericons-regular-webfont.eot" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/weathericons/fonts/weathericons-regular-webfont.ttf" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/weathericons-regular-webfont.ttf" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/weathericons/fonts/weathericons-regular-webfont.woff" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/weathericons-regular-webfont.woff" />
++  </binary>
++  <binary>
++    <option name="BEFORE_PATH" />
++    <option name="AFTER_PATH" value="assets/plugins/iconfonts/weathericons/fonts/weathericons-regular-webfont.woff2" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/weathericons-regular-webfont.woff2" />
++  </binary>
++</changelist>
+\ No newline at end of file

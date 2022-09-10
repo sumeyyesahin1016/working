@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d771f96f-e5d6-41d7-ac3f-43790b3a75b1" name="Changes" comment="deneme" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.1" />
+  <component name="ProjectId" id="2DqNHvXLMF9AAKBoibM7XFcmQlr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sumeyye.sahin/Desktop/ihracat&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sumeyye.sahin\Desktop\ihracat" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sumeyye.sahin\Desktop\ihracat\assets\plugins" />
+      <recent name="C:\Users\sumeyye.sahin\Desktop\ihracat" />
+      <recent name="C:\Users\sumeyye.sahin\Desktop\ihracat\dhl" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d771f96f-e5d6-41d7-ac3f-43790b3a75b1" name="Changes" comment="" />
+      <created>1661422570980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661422570980</updated>
+      <workItem from="1661422572209" duration="15117000" />
+      <workItem from="1661490606831" duration="28837000" />
+      <workItem from="1661577617709" duration="27261000" />
+      <workItem from="1661749807342" duration="14067000" />
+      <workItem from="1661836002866" duration="24870000" />
+      <workItem from="1662008922760" duration="4675000" />
+      <workItem from="1662014320649" duration="18750000" />
+      <workItem from="1662035531496" duration="8576000" />
+      <workItem from="1662095306609" duration="29819000" />
+      <workItem from="1662181617686" duration="28389000" />
+      <workItem from="1662355118493" duration="3155000" />
+      <workItem from="1662358860572" duration="10025000" />
+      <workItem from="1662368925817" duration="17883000" />
+      <workItem from="1662440808584" duration="31199000" />
+      <workItem from="1662528552807" duration="26643000" />
+      <workItem from="1662613625781" duration="8028000" />
+      <workItem from="1662639005929" duration="5637000" />
+      <workItem from="1662700185856" duration="11408000" />
+      <workItem from="1662716800256" duration="13743000" />
+      <workItem from="1662786629206" duration="13422000" />
+      <workItem from="1662803487569" duration="13823000" />
+      <workItem from="1662820215706" duration="59000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="deneme" />
+    <option name="LAST_COMMIT_MESSAGE" value="deneme" />
+  </component>
+</project>
